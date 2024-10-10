@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.2 dinámicamente el octubre 10, 2024 a las 7:00 pm - el plugin SEO original para WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[/]]></loc>
+		<lastmod><![CDATA[2024-10-10T16:26:15+00:00]]></lastmod>
+		<changefreq><![CDATA[always]]></changefreq>
+		<priority><![CDATA[1]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/mujer.webp]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/barco.jpg]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/admin/]]></loc>
+		<lastmod><![CDATA[2024-10-10T15:24:44+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/CEO.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/suscripcion-al-erp/]]></loc>
+		<lastmod><![CDATA[2024-10-10T13:54:20+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/contacto/]]></loc>
+		<lastmod><![CDATA[2024-10-10T08:24:12+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+</urlset>
