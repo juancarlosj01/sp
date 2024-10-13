@@ -21,6 +21,28 @@
 
     <title>Inicio -</title>
 
+    <style>
+      /* Estilo del botón antes de la conexión */
+      #connectWallet {
+        background-color: #fb0000;
+        color: #000;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+      }
+
+      /* Estilo del botón cuando el mouse está encima (hover) */
+      #connectWallet:hover {
+        background-color: #516ddd;
+      }
+
+      /* Estilo del botón cuando la conexión es exitosa */
+      .connected {
+        background-color: #4caf50; /* Verde */
+        color: white;
+      }
+    </style>
+
     <!-- All in One SEO 4.7.2 - aioseo.com -->
     <meta
       name="description"
@@ -1598,6 +1620,7 @@
     class="home page-template-default page page-id-7 wp-custom-logo wp-embed-responsive footer-on-bottom social-brand-colors hide-focus-outline link-style-standard content-title-style-hide content-width-fullwidth content-style-unboxed content-vertical-padding-hide transparent-header mobile-transparent-header kadence-elementor-colors elementor-default elementor-kit-5 elementor-page elementor-page-7"
   >
     <!-- Interactuar con el contrato inteligente -->
+
     <h1>Acciones de SPFO</h1>
 
     <button id="connectWallet">Conectar MetaMask</button>

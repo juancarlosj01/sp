@@ -82,15 +82,15 @@ document.getElementById("buyNFT").onclick = async () => {
   const tokenId = document.getElementById("tokenId").value;
 
   if (!tokenId) {
-    alert("Por favor, ingresa un ID de NFT válido.");
+    alert("Por favor, ingresa la cantidad de acciones a comprar.");
     return;
   }
 
   try {
     const tx = await nftMarketplaceContract.buyNFT(tokenId);
     await tx.wait(); // Esperar a que la transacción se confirme
-    alert(`Has comprado el NFT con ID ${tokenId}`);
+    alert(`Has comprado exitosamente ${tokenId}`);
   } catch (error) {
-    console.error("Error al comprar el NFT:", error);
+    console.error("Error al comprar la acción", error);
   }
 };
