@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Conexión con MetaMask</title>
+    <style>
+      /* Estilo del botón antes de la conexión */
+      #connectWallet {
+        background-color: #f0f0f0;
+        color: #000;
+        border: none;
+        padding: 10px 20px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+
+      /* Estilo del botón cuando el mouse está encima (hover) */
+      #connectWallet:hover {
+        background-color: #ddd;
+      }
+
+      /* Estilo del botón cuando la conexión es exitosa */
+      .connected {
+        background-color: #4caf50; /* Verde */
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Conectar MetaMask</h1>
+
+    <button id="connectWallet">Conectar MetaMask</button>
+    <p id="walletStatus">Billetera no conectada</p>
+
+    <script src="https://cdn.jsdelivr.net/npm/ethers/dist/ethers.min.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
