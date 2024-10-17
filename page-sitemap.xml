@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Este mapa del sitio lo generó All in One SEO vv4.7.2 dinámicamente el octubre 12, 2024 a las 5:22 pm - el plugin SEO original para WordPress. -->
+<!-- Este mapa del sitio lo generó All in One SEO vv4.7.2 dinámicamente el octubre 17, 2024 a las 2:00 am - el plugin SEO original para WordPress. -->
 
 <?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
 <urlset
@@ -9,61 +9,40 @@
 >
 	<url>
 		<loc><![CDATA[/]]></loc>
-		<lastmod><![CDATA[2024-10-12T17:00:58+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-10-17T01:57:05+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/mujer.webp]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/img1.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/barco.jpg]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/fuji.jpg]]></image:loc>
 		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/bom.png]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/mujer.webp]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/log/]]></loc>
+		<lastmod><![CDATA[2024-10-17T01:34:35+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/banca/]]></loc>
-		<lastmod><![CDATA[2024-10-12T16:32:28+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-10-17T01:28:53+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/Blue-Minimalist-World-Map-Instagram-Post.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/Blue-Minimalist-World-Map-Instagram-Post-1.png]]></image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/debida-diligencia/]]></loc>
-		<lastmod><![CDATA[2024-10-12T16:30:15+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/terminales/]]></loc>
-		<lastmod><![CDATA[2024-10-12T15:28:09+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/Blue-Minimalist-World-Map-Instagram-Post.png]]></image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc><![CDATA[/requerimientos/]]></loc>
-		<lastmod><![CDATA[2024-10-12T15:19:37+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/asi-operamos/]]></loc>
-		<lastmod><![CDATA[2024-10-12T15:11:31+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/vision-y-desarrollo/]]></loc>
-		<lastmod><![CDATA[2024-10-12T15:09:32+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
 		<loc><![CDATA[/nuestro-producto/]]></loc>
-		<lastmod><![CDATA[2024-10-12T15:08:34+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-10-17T01:27:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
@@ -81,13 +60,70 @@
 		<image:image>
 			<image:loc><![CDATA[/wp-content/plugins/elementor/assets/images/placeholder.png]]></image:loc>
 		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/vision-y-desarrollo/]]></loc>
+		<lastmod><![CDATA[2024-10-17T01:24:00+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/requerimientos/]]></loc>
+		<lastmod><![CDATA[2024-10-17T01:22:58+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/LOGO.png]]></image:loc>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/reque.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/asi-operamos/]]></loc>
+		<lastmod><![CDATA[2024-10-17T01:22:13+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/debida-diligencia/]]></loc>
+		<lastmod><![CDATA[2024-10-17T01:13:56+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[/admin/]]></loc>
+		<lastmod><![CDATA[2024-10-17T00:59:59+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/CEO-1.png]]></image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc><![CDATA[/terminales/]]></loc>
+		<lastmod><![CDATA[2024-10-17T00:15:49+00:00]]></lastmod>
+		<changefreq><![CDATA[weekly]]></changefreq>
+		<priority><![CDATA[0.7]]></priority>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/a-cor.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/algec.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/bilb.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/tarra.jpeg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/fuji.jpg]]></image:loc>
+		</image:image>
+		<image:image>
+			<image:loc><![CDATA[/wp-content/uploads/2024/10/rotjpg.webp]]></image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc><![CDATA[/contacto/]]></loc>
-		<lastmod><![CDATA[2024-10-12T14:33:07+00:00]]></lastmod>
+		<lastmod><![CDATA[2024-10-17T00:11:12+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
@@ -96,35 +132,5 @@
 		<lastmod><![CDATA[2024-10-12T14:32:41+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/log/]]></loc>
-		<lastmod><![CDATA[2024-10-11T18:15:34+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-	</url>
-	<url>
-		<loc><![CDATA[/admin/]]></loc>
-		<lastmod><![CDATA[2024-10-10T23:55:49+00:00]]></lastmod>
-		<changefreq><![CDATA[weekly]]></changefreq>
-		<priority><![CDATA[0.7]]></priority>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/mujer.webp]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/escalera.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/contacto.jpg]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/953f56d9-a2cd-475d-9b3c-c95d6d05524b.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/plugins/elementor/assets/images/placeholder.png]]></image:loc>
-		</image:image>
-		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2024/10/CEO.png]]></image:loc>
-		</image:image>
 	</url>
 </urlset>
